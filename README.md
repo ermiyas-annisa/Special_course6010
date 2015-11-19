@@ -1,3 +1,3 @@
 # Special_course6010
-discriminant-aware machine learning 
-this is implementaion of disriminat-aware machine learning 
+discriminant-aware machine learning.
+This is implementaion of disriminant-aware machine learning course. 
